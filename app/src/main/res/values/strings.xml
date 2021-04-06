@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Kindergarten</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_poem">Poem</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_alphabet">alphabet</string>
+
+    <!--alphabet-->
+    <string name="alphabet_a">A</string>
+    <string name="alphabet_b">B</string>
+    <string name="alphabet_c">C</string>
+    <string name="alphabet_d">D</string>
+    <string name="alphabet_e">E</string>
+    <string name="alphabet_f">F</string>
+    <string name="alphabet_g">G</string>
+    <string name="alphabet_h">H</string>
+    <string name="alphabet_i">I</string>
+    <string name="alphabet_j">J</string>
+    <string name="alphabet_k">K</string>
+    <string name="alphabet_l">L</string>
+    <string name="alphabet_m">M</string>
+    <string name="alphabet_n">N</string>
+    <string name="alphabet_o">O</string>
+    <string name="alphabet_p">P</string>
+    <string name="alphabet_q">Q</string>
+    <string name="alphabet_r">R</string>
+    <string name="alphabet_s">S</string>
+    <string name="alphabet_t">T</string>
+    <string name="alphabet_u">U</string>
+    <string name="alphabet_v">V</string>
+    <string name="alphabet_w">W</string>
+    <string name="alphabet_x">X</string>
+    <string name="alphabet_y">Y</string>
+    <string name="alphabet_z">Z</string>
+
+
+    <!--numbers-->
+    <string name="number_zero">0</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="number_ten">10</string>
+
+    <!--colors-->
+    <string name="color_white">White</string>
+    <string name="color_black">Black</string>
+    <string name="color_brown">Brown</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_green">Green</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_red">Red</string>
+
+
+
+
+    <!--poem -->
+    <string name="poem_twinkle_twinkle">বুলবুল পাখি ময়না</string>
+    <string name="poem_baba_black_sheep">Baba Black Sheep</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
