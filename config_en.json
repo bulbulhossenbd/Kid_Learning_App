@@ -2145,7 +2145,7 @@
 "showHeart":false,
 "hMargin":6,
 "enableBottomAddToCart":false,
-"layout":"menu",
+"layout":"default",
 "enableRating":true,
 "imageRatio":1.4,
 "isVertical":true,
